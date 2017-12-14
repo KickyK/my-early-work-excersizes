@@ -1,0 +1,12 @@
+html {
+  background-color: #A3E4D7  ;
+}
+
+h1 {
+  text-align: center;
+}
+
+form, p, button {
+  text-align: center;
+  margin: 5px;
+}

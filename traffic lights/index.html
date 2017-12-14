@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<head>
+<link rel="stylesheet" type="text/css" href="style.css">
+<script src="js.js"></script>
+<button onclick="goBack()">Go Back</button>
+
+<script>
+function goBack() {
+    window.history.back();
+}
+</script>
+</head>
+<body>
+<h2>Click the Lights</h2>
+<div id="traffic-light">
+<div onclick="switchLight(0)" class="light stop on" ></div>
+<div onclick="switchLight(1)" class="light slow" ></div>
+<div onclick="switchLight(2)" class="light go" ></div
+</div>
+</body>
+</html>
