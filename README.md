@@ -1,2 +1,2 @@
-# portfolio
-my portfolio site
+# some early excersizes..
+
